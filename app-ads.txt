@@ -1,0 +1,3 @@
+# AdMob app-ads.txt for iap.dev apps
+# Format: <SSP domain>, <publisher ID>, <relationship>, <certification authority ID>
+google.com, pub-5021310479037085, DIRECT, f08c47fec0942fa0
